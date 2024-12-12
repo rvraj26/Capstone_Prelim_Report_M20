@@ -34,7 +34,7 @@ Extensive data reporting and plotting are implemented to validate the code and v
 
 #### Final Result
 
-Support Vector Machines (SVM) classifier performed the best for this wafer fab yield problem. Random Forest produced similar results but had a significantly higher run time. The recommendation is to use SVM with the best parameter reported above.
+Support Vector Machines (SVM) classifier performed the best for this wafer fab yield problem. Random Forest produced similar results but had a significantly higher run time. The recommendation is to use SVM with the best parameter reported in the attached CSV file: https://github.com/rvraj26/Capstone_Prelim_Report_M20/blob/main/capstone_results.csv
 
 |         Method         |   Accuracy   |  Precision  |   Recall   |   F1-score   |
 |------------------------|--------------|-------------|------------|--------------|  
